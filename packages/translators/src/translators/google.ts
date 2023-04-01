@@ -126,7 +126,7 @@ class GoogleTranslator {
     // this.HOST = "https://translate.google.com/";
 
     // Spare host.
-    HOST = "https://translate.googleapis.com/";
+    HOST = "https://transapi.scholarcn.com/";
 
     /**
      * Translate API.
